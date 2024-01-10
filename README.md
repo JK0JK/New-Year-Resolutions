@@ -1,2 +1,6 @@
 # New-Year-Resolutions
-Because the best way of making absolutely no progress is by seeing the progress get no commits in the last 12 months
+I will forget my new year resolutions if I don't put them on GitHub.
+That's it. 
+
+File names are self descriptive. There might be folders with pictures or something.
+
